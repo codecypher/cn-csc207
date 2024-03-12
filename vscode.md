@@ -20,9 +20,9 @@ Here are some helpful extensions for C/C++:
 - CMake
 - CMake Tools
 
-----------
+## Project Configuration Topics
 
-## Setup
+Here are some topics for discussion when configuring C++ projects in VS Code:
 
 - Tasks: Configure Default Build Task (task.json)
 - C/C++: Select Intellisense Configuration
@@ -33,7 +33,9 @@ Here are some helpful extensions for C/C++:
 - Workspace settings override user settings
 - Language specific editor settings
 
-### Windows
+----------
+
+## Windows Setup
 
 [Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
 
@@ -44,7 +46,7 @@ Here are some helpful extensions for C/C++:
 - Explore the debugger
 - Customize debugging with launch.json
 
-### Ubuntu Linux
+## Linux Setup
 
 ```zsh
     # update and upgrade the system
@@ -65,7 +67,7 @@ Here are some helpful extensions for C/C++:
     sudo reboot
 ```
 
-### macOS
+## macOS Setup
 
 The default Xcode clang++ compiler should work, but we can also make use of clang++ from the Linux llvm toolchain.
 
