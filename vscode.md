@@ -17,8 +17,8 @@ Here are some helpful extensions for C/C++:
 - C/C++ Extension Pack
 - Code Runner
 - Doxygen Documentation Generator
-- CMake
-- CMake Tools
+- CMake (disable for now)
+- CMake Tools (disable for now)
 
 ## Project Configuration Topics
 
