@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "debug.toolBarLocation": "docked"
+}
